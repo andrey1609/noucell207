@@ -1,0 +1,4 @@
+baseURL = "https://acura-accessories508.vercel.app"
+languageCode = "en-us"
+title = "Acura RDX Accessories"
+theme = "hugo-theme-minos"
